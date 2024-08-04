@@ -12,6 +12,7 @@ public class ChatController {
     public String chatRoom() {
 
         System.out.println("수정12");
+        System.out.println("수정123");
         return "chatRoom";
     }
 }
