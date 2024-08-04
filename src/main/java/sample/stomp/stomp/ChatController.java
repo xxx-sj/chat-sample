@@ -11,7 +11,7 @@ public class ChatController {
     @GetMapping("")
     public String chatRoom() {
 
-        System.out.println("수정");
+        System.out.println("수정12");
         return "chatRoom";
     }
 }
